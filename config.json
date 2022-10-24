@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "Venetian Nail Spa",
+        "slug"      : "annies-nails-spa",
+        "phone"     : "806 358 0699",
+        "email"     : "nailspa4000@gmail.com",
+        "state"     : "Texas",
+        "address"   : "4000 SW 58th Ave C, Amarillo, Texas 79110",
+        "time_1"    : "Mon - Sat: 9:30 AM - 7:00 PM",
+        "time_2"    : "Sun: 12:30 PM - 5:30 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/VenetianNailandHairSalonAmarillo",
+        "instagram" :   "https://www.instagram.com/venetiansalons/",
+        "google"    :   "https://goo.gl/maps/kuhKL2ydE9S4B8Qb9", 
+        "booking"   :   "https://lldtek.com/salon/appt/NDY3NTd8dmVuZXRpYW42MDE3fFRYXzA3OTIxfGQwZjdiY2U0ZGEwYzI4MzRmODEzZmY4MDAzOGU4N2Nk",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3262.382703857009!2d-101.88399468448078!3d35.14707518032234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87014551124411b1%3A0x7fe34b813d4880ab!2sVenetian%20Nail%20On%20Western%20St!5e0!3m2!1svi!2s!4v1666586351005!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "linear-gradient(20deg, #9b773d -30%, #e6d598, #9b773d 130%)",
+        "primary_light"         :   "#e6d598",
+        "primary_hover"         :   "#9b773d",
+        "secondary"             :   "#092557",
+        "secondary_hover"       :   "#000f2a",
+        "text_primary"          :   "#939393",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#092557",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "./img",
+    "domain":       "http://127.0.0.1:5500/"
+}
